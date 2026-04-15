@@ -94,7 +94,7 @@ npm run preview
 
 ## 🧑‍💻 Author & License
 
-- **Nama:** [Nama Anda]
+- **Nama:** Giska Aura Muhamad Prasetyo
 - **NIM:** 24090055
 - **Mata Kuliah:** Pemrograman Web 2
 - **Lisensi:** MIT
