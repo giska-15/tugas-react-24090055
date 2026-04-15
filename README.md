@@ -2,9 +2,9 @@
 
 # Tugas React 24090055 — UI Component System
 
-[![Vercel](https://vercelbadge.vercel.app/api/your-vercel-username/tugas-react-24090055)](https://tugas-react-24090055.vercel.app)
+[![Vercel]([https://vercelbadge.vercel.app/api/your-vercel-username/tugas-react-24090055)](https://tugas-react-24090055.vercel.app/)
 
-**🌐 [Demo Site — tugas-react-24090055.vercel.app](https://tugas-react-24090055.vercel.app)**
+**🌐 [Demo Site — tugas-react-24090055.vercel.app](https://tugas-react-24090055.vercel.app/)**
 
 > **Professional React + TypeScript UI Component Boilerplate**  
 > _Pemrograman Web 2 — Universitas Harkat Negeri, 2026/2027_
